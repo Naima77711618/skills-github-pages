@@ -1,0 +1,94 @@
+/* Style général */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #004682;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.logo {
+    width: 100px;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+h2 {
+    color: #000000;
+}
+
+/* Section alertes */
+#alertes {
+    background-color: #fff; /* Fond blanc */
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+#alertes-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/* Style des alertes */
+.alerte {
+    padding: 10px;
+    background-color: #fff; /* Remettre le fond blanc */
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* Plus d'espace entre les lignes d'alerte */
+    border-left: 5px solid #0073a6; /* La couleur de la barre par défaut */
+}
+
+.alerte .ligne {
+    font-weight: bold;
+}
+
+.alerte .horodatage {
+    font-size: 1rem;
+}
+
+.alerte .message {
+    font-size: 0.9rem;
+}
+
+/* Style des pictogrammes */
+.picto-ligne {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+
+/* Conteneur spécifique pour les pictogrammes */
+.picto-ligne-container {
+    display: flex;
+    align-items: center; /* Centrer verticalement le picto et le texte */
+    gap: 10px; /* Espace entre le picto et le texte */
+}
+
+/* Formatage pour chaque ligne de l'alerte */
+.alerte-header {
+    display: flex;
+    align-items: center; /* Alignement horizontal des éléments */
+    gap: 10px; /* Espacement entre le pictogramme et le texte */
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.horodatage {
+    font-size: 0.9rem;
+    margin-top: 5px; /* Espacement entre la date et le message */
+}
+
+.message {
+    font-size: 1rem;
+    margin-top: 5px; /* Espacement entre le message et la date */
+}

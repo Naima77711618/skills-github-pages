@@ -1,0 +1,1312 @@
+{
+    "alertes": [
+        {
+            "horodatage": "2025-03-08 12:48:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 12:48:19",
+            "lignes": [
+                "7-2"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 12:48:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 12:48:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 12:53:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 12:53:19",
+            "lignes": [
+                "7-2"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 12:53:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 12:53:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 12:58:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 12:58:19",
+            "lignes": [
+                "7-2"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 12:58:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 12:58:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:03:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:03:19",
+            "lignes": [
+                "7-2"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:03:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:03:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:08:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:08:19",
+            "lignes": [
+                "7-2"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:08:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:08:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:13:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:13:19",
+            "lignes": [
+                "7-2"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:13:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:13:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:18:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:18:19",
+            "lignes": [
+                "7-2"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:18:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:18:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:23:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:23:19",
+            "lignes": [
+                "7-2"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:23:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:23:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:28:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:28:19",
+            "lignes": [
+                "7-2"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:28:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:28:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:33:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:33:19",
+            "lignes": [
+                "7-2"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:33:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:33:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:38:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:38:19",
+            "lignes": [
+                "7-2"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:38:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:38:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:43:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:43:19",
+            "lignes": [
+                "7-2"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:43:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:43:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:48:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:48:19",
+            "lignes": [
+                "7-2"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:48:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:48:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:53:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:53:19",
+            "lignes": [
+                "7-2"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:53:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:53:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:58:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:58:19",
+            "lignes": [
+                "7-2"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:58:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 13:58:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 13:00:00",
+                "fin": "2025-03-08 14:00:00"
+            },
+            "message": "Manifestation: perturbations à prévoir sur réseau tram à partir de 14H00."
+        },
+        {
+            "horodatage": "2025-03-08 14:13:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:08:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "Manifestation Ligne 3 déviée par Corum-Comédie- Gare L1 dans les sens Lattes-Pérols."
+        },
+        {
+            "horodatage": "2025-03-08 14:13:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:11:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "La ligne 4 est déviée entre Rondelet et Place de l'Europe suite à une manifestation. Secteurs Observatoire / Peyrou / Pompignane non desservis. "
+        },
+        {
+            "horodatage": "2025-03-08 14:18:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:08:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "Manifestation Ligne 3 déviée par Corum-Comédie- Gare L1 dans les sens Lattes-Pérols."
+        },
+        {
+            "horodatage": "2025-03-08 14:18:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:11:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "La ligne 4 est déviée entre Rondelet et Place de l'Europe suite à une manifestation. Secteurs Observatoire / Peyrou / Pompignane non desservis. "
+        },
+        {
+            "horodatage": "2025-03-08 14:23:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:11:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "La ligne 4 est déviée entre Rondelet et Place de l'Europe suite à une manifestation. Secteurs Observatoire / Peyrou / Pompignane non desservis. "
+        },
+        {
+            "horodatage": "2025-03-08 14:28:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:11:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "La ligne 4 est déviée entre Rondelet et Place de l'Europe suite à une manifestation. Secteurs Observatoire / Peyrou / Pompignane non desservis. "
+        },
+        {
+            "horodatage": "2025-03-08 14:33:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:11:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "La ligne 4 est déviée entre Rondelet et Place de l'Europe suite à une manifestation. Secteurs Observatoire / Peyrou / Pompignane non desservis. "
+        },
+        {
+            "horodatage": "2025-03-08 14:33:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:29:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "MANIFESTATION : La ligne 1 effectue son terminus a Corum L2."
+        },
+        {
+            "horodatage": "2025-03-08 14:38:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:11:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "La ligne 4 est déviée entre Rondelet et Place de l'Europe suite à une manifestation. Secteurs Observatoire / Peyrou / Pompignane non desservis. "
+        },
+        {
+            "horodatage": "2025-03-08 14:38:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:29:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "MANIFESTATION : La ligne 1 effectue son terminus a Corum L2."
+        },
+        {
+            "horodatage": "2025-03-08 14:38:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:34:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "Manifestation : ligne 3 interrompue entre Albert 1er et Place Carnot."
+        },
+        {
+            "horodatage": "2025-03-08 14:43:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:11:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "La ligne 4 est déviée entre Rondelet et Place de l'Europe suite à une manifestation. Secteurs Observatoire / Peyrou / Pompignane non desservis. "
+        },
+        {
+            "horodatage": "2025-03-08 14:43:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:29:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "MANIFESTATION : La ligne 1 effectue son terminus a Corum L2."
+        },
+        {
+            "horodatage": "2025-03-08 14:43:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:34:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "Manifestation : ligne 3 interrompue entre Albert 1er et Place Carnot."
+        },
+        {
+            "horodatage": "2025-03-08 14:48:20",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:11:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "La ligne 4 est déviée entre Rondelet et Place de l'Europe suite à une manifestation. Secteurs Observatoire / Peyrou / Pompignane non desservis. "
+        },
+        {
+            "horodatage": "2025-03-08 14:48:20",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:45:00",
+                "fin": "2025-03-08 15:00:00"
+            },
+            "message": "La perturbation est terminée sur la ligne 1, qui a repris son itinéraire. Retards sur quelques rames."
+        },
+        {
+            "horodatage": "2025-03-08 14:53:20",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:11:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "La ligne 4 est déviée entre Rondelet et Place de l'Europe suite à une manifestation. Secteurs Observatoire / Peyrou / Pompignane non desservis. "
+        },
+        {
+            "horodatage": "2025-03-08 14:53:20",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:45:00",
+                "fin": "2025-03-08 15:00:00"
+            },
+            "message": "La perturbation est terminée sur la ligne 1, qui a repris son itinéraire. Retards sur quelques rames."
+        },
+        {
+            "horodatage": "2025-03-08 14:58:20",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:11:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "La ligne 4 est déviée entre Rondelet et Place de l'Europe suite à une manifestation. Secteurs Observatoire / Peyrou / Pompignane non desservis. "
+        },
+        {
+            "horodatage": "2025-03-08 14:58:20",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:45:00",
+                "fin": "2025-03-08 15:00:00"
+            },
+            "message": "La perturbation est terminée sur la ligne 1, qui a repris son itinéraire. Retards sur quelques rames."
+        },
+        {
+            "horodatage": "2025-03-08 14:58:20",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:52:00",
+                "fin": "2025-03-08 16:00:00"
+            },
+            "message": "Suite à une manifestation, la ligne 3 est déviée par Pompignane entre Rives du lez ligne 1et Albert 1. "
+        },
+        {
+            "horodatage": "2025-03-08 15:03:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:11:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "La ligne 4 est déviée entre Rondelet et Place de l'Europe suite à une manifestation. Secteurs Observatoire / Peyrou / Pompignane non desservis. "
+        },
+        {
+            "horodatage": "2025-03-08 15:03:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:52:00",
+                "fin": "2025-03-08 16:00:00"
+            },
+            "message": "Suite à une manifestation, la ligne 3 est déviée par Pompignane entre Rives du lez ligne 1et Albert 1. "
+        },
+        {
+            "horodatage": "2025-03-08 15:08:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:11:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "La ligne 4 est déviée entre Rondelet et Place de l'Europe suite à une manifestation. Secteurs Observatoire / Peyrou / Pompignane non desservis. "
+        },
+        {
+            "horodatage": "2025-03-08 15:08:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:52:00",
+                "fin": "2025-03-08 16:00:00"
+            },
+            "message": "Suite à une manifestation, la ligne 3 est déviée par Pompignane entre Rives du lez ligne 1et Albert 1. "
+        },
+        {
+            "horodatage": "2025-03-08 15:13:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:11:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "La ligne 4 est déviée entre Rondelet et Place de l'Europe suite à une manifestation. Secteurs Observatoire / Peyrou / Pompignane non desservis. "
+        },
+        {
+            "horodatage": "2025-03-08 15:13:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:52:00",
+                "fin": "2025-03-08 16:00:00"
+            },
+            "message": "Suite à une manifestation, la ligne 3 est déviée par Pompignane entre Rives du lez ligne 1et Albert 1. "
+        },
+        {
+            "horodatage": "2025-03-08 15:18:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:11:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "La ligne 4 est déviée entre Rondelet et Place de l'Europe suite à une manifestation. Secteurs Observatoire / Peyrou / Pompignane non desservis. "
+        },
+        {
+            "horodatage": "2025-03-08 15:18:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:52:00",
+                "fin": "2025-03-08 16:00:00"
+            },
+            "message": "Suite à une manifestation, la ligne 3 est déviée par Pompignane entre Rives du lez ligne 1et Albert 1. "
+        },
+        {
+            "horodatage": "2025-03-08 15:23:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:52:00",
+                "fin": "2025-03-08 16:00:00"
+            },
+            "message": "Suite à une manifestation, la ligne 3 est déviée par Pompignane entre Rives du lez ligne 1et Albert 1. "
+        },
+        {
+            "horodatage": "2025-03-08 15:23:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 15:20:00",
+                "fin": "2025-03-08 16:01:00"
+            },
+            "message": "Figée dans les deux sens.Manifestation en cours ."
+        },
+        {
+            "horodatage": "2025-03-08 15:28:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:52:00",
+                "fin": "2025-03-08 16:00:00"
+            },
+            "message": "Suite à une manifestation, la ligne 3 est déviée par Pompignane entre Rives du lez ligne 1et Albert 1. "
+        },
+        {
+            "horodatage": "2025-03-08 15:28:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 15:20:00",
+                "fin": "2025-03-08 16:01:00"
+            },
+            "message": "Figée dans les deux sens.Manifestation en cours ."
+        },
+        {
+            "horodatage": "2025-03-08 15:28:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 15:22:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "Manifestation : ligne 1 déviée entre Corum et Place de l'Europe, stations Comédie à Blum non desservies. "
+        },
+        {
+            "horodatage": "2025-03-08 15:33:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:52:00",
+                "fin": "2025-03-08 16:00:00"
+            },
+            "message": "Suite à une manifestation, la ligne 3 est déviée par Pompignane entre Rives du lez ligne 1et Albert 1. "
+        },
+        {
+            "horodatage": "2025-03-08 15:33:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 15:20:00",
+                "fin": "2025-03-08 16:01:00"
+            },
+            "message": "Figée dans les deux sens.Manifestation en cours ."
+        },
+        {
+            "horodatage": "2025-03-08 15:33:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 15:22:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "Manifestation : ligne 1 déviée entre Corum et Place de l'Europe, stations Comédie à Blum non desservies. "
+        },
+        {
+            "horodatage": "2025-03-08 15:38:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:52:00",
+                "fin": "2025-03-08 16:00:00"
+            },
+            "message": "Suite à une manifestation, la ligne 3 est déviée par Pompignane entre Rives du lez ligne 1et Albert 1. "
+        },
+        {
+            "horodatage": "2025-03-08 15:38:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 15:20:00",
+                "fin": "2025-03-08 16:01:00"
+            },
+            "message": "Figée dans les deux sens.Manifestation en cours ."
+        },
+        {
+            "horodatage": "2025-03-08 15:38:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 15:22:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "Manifestation : ligne 1 déviée entre Corum et Place de l'Europe, stations Comédie à Blum non desservies. "
+        },
+        {
+            "horodatage": "2025-03-08 15:43:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:52:00",
+                "fin": "2025-03-08 16:00:00"
+            },
+            "message": "Suite à une manifestation, la ligne 3 est déviée par Pompignane entre Rives du lez ligne 1et Albert 1. "
+        },
+        {
+            "horodatage": "2025-03-08 15:43:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 15:20:00",
+                "fin": "2025-03-08 16:01:00"
+            },
+            "message": "Figée dans les deux sens.Manifestation en cours ."
+        },
+        {
+            "horodatage": "2025-03-08 15:43:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 15:22:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "Manifestation : ligne 1 déviée entre Corum et Place de l'Europe, stations Comédie à Blum non desservies. "
+        },
+        {
+            "horodatage": "2025-03-08 15:48:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:52:00",
+                "fin": "2025-03-08 16:00:00"
+            },
+            "message": "Suite à une manifestation, la ligne 3 est déviée par Pompignane entre Rives du lez ligne 1et Albert 1. "
+        },
+        {
+            "horodatage": "2025-03-08 15:48:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 15:20:00",
+                "fin": "2025-03-08 16:01:00"
+            },
+            "message": "Figée dans les deux sens.Manifestation en cours ."
+        },
+        {
+            "horodatage": "2025-03-08 15:48:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 15:22:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "Manifestation : ligne 1 déviée entre Corum et Place de l'Europe, stations Comédie à Blum non desservies. "
+        },
+        {
+            "horodatage": "2025-03-08 15:53:19",
+            "lignes": [
+                "7-3"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 14:52:00",
+                "fin": "2025-03-08 16:00:00"
+            },
+            "message": "Suite à une manifestation, la ligne 3 est déviée par Pompignane entre Rives du lez ligne 1et Albert 1. "
+        },
+        {
+            "horodatage": "2025-03-08 15:53:19",
+            "lignes": [
+                "7-4"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 15:20:00",
+                "fin": "2025-03-08 16:01:00"
+            },
+            "message": "Figée dans les deux sens.Manifestation en cours ."
+        },
+        {
+            "horodatage": "2025-03-08 15:53:19",
+            "lignes": [
+                "7-1"
+            ],
+            "trips": [],
+            "periode": {
+                "debut": "2025-03-08 15:22:00",
+                "fin": "2025-03-08 17:00:00"
+            },
+            "message": "Manifestation : ligne 1 déviée entre Corum et Place de l'Europe, stations Comédie à Blum non desservies. "
+        }
+    ]
+}
